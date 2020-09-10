@@ -14,8 +14,8 @@ If you would like to download this you can perform "git clone git@github.com:dca
 
 You can navigate to the clients homepage to see who they are and what they have to offer. You can navigate via the above provided link in the "Installation" section or you can open the "index.html" file on your local computer after cloning to open in your local browser.
 
-![screenshot1] (./assets/images/Screen Shot 2020-09-09 at 9.54.19 PM.png)
-![screenshot2] (./assets/images/Screen Shot 2020-09-09 at 9.54.31 PM.png)
+![screenshot1] (assets/images/screenshot1.png)
+![screenshot2] (assets/images/screenshot2.png)
 
 ## Credits
 
